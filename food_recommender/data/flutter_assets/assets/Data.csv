@@ -1,0 +1,109 @@
+﻿Type,Food Name,Price,Flavor,veg/non-veg,Rating
+Main Course,Paneer Burji,210,Mild,Veg,4.6
+Main Course,Allo Gobhi,180,Mild,Veg,3.8
+Main Course,Plain Palak ,190,Mild,Veg,4
+Main Course,Malai kofta,220,Medium,Veg,4.2
+Main Course,Mushrrom Kadhi,225,Medium,Veg,3.4
+Main Course,Panner Kadhi,240,Medium,Veg,4.4
+Main Course,Dum Aloo Hyderabadi,250,Strong,Veg,3.9
+Main Course,Navaratna Korma,265,Strong,Veg,4.8
+Main Course,Paneer Tikka Masala,275,Strong,Veg,4.3
+Main Course,Butter Chicken,200,Mild,Non-Veg,4
+Main Course,Methi Chicken,215,Mild,Non-Veg,3.6
+Main Course,Kadhi Chicken,225,Mild,Non-Veg,4.7
+Main Course,Punjabi Chicken Curry,230,Medium,Non-Veg,4.8
+Main Course,Ginger Chiken Curry,245,Medium,Non-Veg,3.2
+Main Course,Mutton Kheema Curry,265,Medium,Non-Veg,3.8
+Main Course,Chicken Afgani,275,Strong,Non-Veg,4.1
+Main Course,Chicken Kolapuri,285,Strong,Non-Veg,4.3
+Main Course,Chicken Tikka Masala,300,Strong,Non-Veg,4.7
+Starter,Veg Crispy,100,Mild,Veg,4.1
+Starter,Veg Hot Gralic,110,Mild,Veg,3.9
+Starter,Veg Manchurian,130,Mild,Veg,4.7
+Starter,Butter Garlic Mushroom ,110,Medium,Veg,4
+Starter,Corn Chilly Peppar,125,Medium,Veg,2.9
+Starter,Paneer Chilly,140,Medium,Veg,4.8
+Starter,Mushroom Chilly,130,Strong,Veg,4.2
+Starter,Hara Bhara Kabab,150,Strong,Veg,4.7
+Starter,Paneer Red Peppar,160,Strong,Veg,4.6
+Starter,Chicken Crispy,150,Mild,Non-Veg,4.7
+Starter,Chicken Peppar,160,Mild,Non-Veg,3.4
+Starter,Chicken Cullet,170,Mild,Non-Veg,3.9
+Starter,Chicken Shangai,190,Medium,Non-Veg,4.4
+Starter,Chicken Hot Pan,200,Medium,Non-Veg,2.8
+Starter,Chicken Tikka Kebab,210,Medium,Non-Veg,4.8
+Starter,Roast Chicken,230,Strong,Non-Veg,4.6
+Starter,Chicken Resmai Kebab,250,Strong,Non-Veg,4.7
+Starter,Chicken Chilly Lolipop,300,Strong,Non-Veg,4.3
+Soup,Tomato Soup,45,Mild,Veg,4.1
+Soup,Vegetable Soup,55,Mild,Veg,4.5
+Soup,Sweet corn Soup,65,Mild,Veg,4.7
+Soup,Veg Manchurian Soup,75,Medium,Veg,4.6
+Soup,Veg Lemon Corriander Soup,85,Medium,Veg,3.7
+Soup,Veg  Manchaw Soup,100,Medium,Veg,4.4
+Soup,Veg Ministorm Soup,110,Strong,Veg,4
+Soup,Veg Bejing Soup,125,Strong,Veg,4.6
+Soup,Veg Talumein Soup,140,Strong,Veg,3.8
+Soup,Chicken Sweet Corn Soup,120,Mild,Non-Veg,3.6
+Soup,Chicken Crispy Rice Soup,135,Mild,Non-Veg,2.8
+Soup,Chicken Hot n Sour Soup,145,Mild,Non-Veg,4.7
+Soup,Chicken Wonton Soup,145,Medium,Non-Veg,2.9
+Soup,Chicken Lemon Corriander Soup,150,Medium,Non-Veg,4.3
+Soup,Chicken Manchaw Soup,160,Medium,Non-Veg,4.8
+Soup,Chicken Talumein Soup,155,Strong,Non-Veg,4.2
+Soup,Chicken Thai soup,160,Strong,Non-Veg,4.1
+Soup,Prawns Talumein Soup,170,Strong,Non-Veg,4.8
+Side Dish,Chilli Chicken,180,Strong,Non-Veg,4
+Side Dish,Grilled Fish,250,Strong,Non-Veg,3.5
+Side Dish,Chilli Shrimp,300,Strong,Non-Veg,4.5
+Side Dish,Veg Parcel,120,Strong,Veg,3.7
+Side Dish,Chilli Paneer,250,Strong,Veg,4.5
+Side Dish,Jeera Aloo,150,Strong,Veg,3.9
+Side Dish,Chicken Roll,160,Medium,Non-Veg,4
+Side Dish,Fish Finger,200,Medium,Non-Veg,3
+Side Dish,Egg Fry Masala,120,Medium,Non-Veg,3.8
+Side Dish,Chilli Soya Chunks,100,Medium,Veg,3.7
+Side Dish,Hydrebadi Okra,70,Medium,Veg,3.5
+Side Dish,Honey Chilli Potato,150,Medium,Veg,3
+Side Dish,Egg Bhurjee,100,Mild,Non-Veg,2.5
+Side Dish,Pan Fried Chicken,130,Mild,Non-Veg,4
+Side Dish,Fish Fry,150,Mild,Non-Veg,3
+Side Dish,Dum Aloo,130,Mild,Veg,3.5
+Side Dish,Salad,80,Mild,Veg,3
+Side Dish,Mixed Vegetable Korma,110,Mild,Veg,3.3
+Dessert,Tiramisu,200,Strong,Non-Veg,4
+Dessert,Chocolate Mousse,150,Strong,Non-Veg,3.5
+Dessert,Carrot cake,180,Strong,Veg,3.7
+Dessert,Gajar ka Halwa,120,Strong,Veg,4.5
+Dessert,Rasmalai,140,Strong,Veg,4.2
+Dessert,Rasgulla,80,Strong,Veg,4.6
+Dessert,Sandesh,100,Medium,Non-Veg,4.5
+Dessert,Chocolate and Mint Cheese Cake,250,Medium,Non-Veg,4
+Dessert,Apple Pie,200,Medium,Veg,3
+Dessert,Gulab Jamun,120,Medium,Veg,3.2
+Dessert,Sundae,60,Medium,Veg,3
+Dessert,Malai Ghewar,80,Medium,Veg,3.8
+Dessert,Banana Spilt,50,Mild,Veg,4
+Dessert,Kulfi,30,Mild,Veg,4.8
+Dessert,Kheer,50,Mild,Veg,4.5
+Dessert,Cheese Cake,100,Mild,Non-Veg,3.6
+Dessert,Pudding,100,Mild,Non-Veg,3.1
+Dessert,Motichur Laddu,60,Mild,Veg,4.5
+Chaat,Aloo Chaat,90,Strong,Veg,3.5
+Chaat,Aloo Tikki,25,Strong,Veg,3.7
+Chaat,Panipuri,35,Strong,Veg,4
+Chaat,Ragda Patties,30,Strong,Veg,4.6
+Chaat,Sev Puri,40,Strong,Veg,2.9
+Chaat,Dahi Bhalla,35,Strong,Veg,3
+Chaat,Dahi Vada,25,Medium,Veg,2.8
+Chaat,Vada Pav,30,Medium,Veg,3.5
+Chaat,Papri Chaat,20,Medium,Veg,3.1
+Chaat,Bhalla Papdi,30,Medium,Veg,4.1
+Chaat,Dahi Puri,25,Medium,Veg,4.5
+Chaat,Raj Kachori,50,Medium,Veg,3
+Chaat,Jhal Muri,40,Mild,Veg,3.5
+Chaat,Samosa Chaat,35,Mild,Veg,4
+Chaat,Bhelpuri,20,Mild,Veg,3
+Chaat,Tikki Chaat,25,Mild,Veg,4.5
+Chaat,Fruit Chaat,60,Mild,Veg,4.6
+Chaat,Dabeli,40,Mild,Veg,3.9
